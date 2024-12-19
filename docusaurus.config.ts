@@ -107,6 +107,10 @@ const config: Config = {
                             label: 'Documentatie',
                             to: '/docs/documentatie/',
                         },
+                        {
+                            label: 'Interne Documentatie',
+                            to: '/docs/intern/',
+                        },
                     ],
                 },
                 {
