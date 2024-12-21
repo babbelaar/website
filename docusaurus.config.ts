@@ -101,7 +101,7 @@ const config: Config = {
                     items: [
                         {
                             label: 'Handleiding',
-                            to: '/docs/handleiding/intro',
+                            to: '/docs/handleiding/Inleiding',
                         },
                         {
                             label: 'Documentatie',
