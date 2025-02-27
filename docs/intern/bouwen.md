@@ -33,11 +33,4 @@ cargo run bouwen babbib
 In de map `/babbib/uit/` staat dan de statische bibliotheek waarmee gelinkt kan worden.
 
 ## Taaldienaar
-De taaldienaar van Babbelaar biedt ondersteuning voor de taal bij tekstbewerkers, op dit moment alleen nog maar Visual Studio Code. Om dit zelf te bouwen, dien je de volgende tools te installeren:
-
-### NodeJS installeren
-Omdat Visual Studio Code gebouwd is met [Electron](https://www.electronjs.org/), is het vereist om [NodeJS](https://nodejs.org/) te installeren om de JavaScript uit te kunnen voeren. Een handig installatiemiddel is bijvoorbeeld [fnm (Fast Node Manager)](https://github.com/Schniz/fnm).
-
-### Visual Studio Code-gereedschappen installeren
-Nu je NodeJS geïnstalleerd hebt, is het belangrijk dat je de
-
+De taaldienaar van Babbelaar biedt ondersteuning voor de taal bij tekstbewerkers, op dit moment alleen nog maar Visual Studio Code. Om dit zelf te bouwen, kun je de instructies op de pagina [Taaldienaar (LSP)](./taaldienaar.md) volgen.
